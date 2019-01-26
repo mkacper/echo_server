@@ -7,3 +7,6 @@ Build
 -----
 
     $ rebar3 compile
+
+
+test
